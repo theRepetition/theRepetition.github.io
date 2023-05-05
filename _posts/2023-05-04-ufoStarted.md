@@ -80,3 +80,13 @@ http://localhost:5000/ 로 접속해 잘 나오는지 확인 한다.
 잘 나오면 어느정도 가상환경과 플라스크가 구축이 된것이다.
 
 
+
+## 본격적인 웹 앱 빌드
+
+이제 플라스크와 가상 환경이 구축되었으니 웹 앱을 빌드 해본다.
+
+먼저 https://github.com/microsoft/ML-For-Beginners/tree/main/3-Web-App 이 사이트의 레슨에서는 https://nuforc.org/ 이 사이트에서 데이터를 가져왔는데
+
+일단 해당 깃허브에서 https://github.com/microsoft/ML-For-Beginners/blob/main/3-Web-App/1-Web-App/data/ufos.csv 이 데이터를 이용하도록 하고 있다.
+
+이 스프레드시트을 다운받아서 사용한다.
